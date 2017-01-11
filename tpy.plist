@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.tf99999999.com/apk/ios/MillionLand.ipa</string>
+					<string>http://www.tf99999999.com/ios/MillionLand.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.tf99999999.com/apk/ios/css/icon.png</string>
+					<string>http://www.tf99999999.com/ios/css/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.tf99999999.com/apk/ios/css/icon.png</string>
+					<string>http://www.tf99999999.com/ios/css/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
